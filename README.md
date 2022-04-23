@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c0d3p0is0n3r
+- 👋 Hi, I’m @0xmani
 - 👀 I’m interested in Web and Network Security
 - 🌱 I’m learning new stuffs
 - 📫 reach me on manikandan200030@gmail.com
