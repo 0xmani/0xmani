@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xmani
+
 - 👀 I’m interested in Red Teaming and Penetration Testing
 - 🌱 I’m learning new kinds of stuff.
 - 📫 reach me on manikandan200030@gmail.com
